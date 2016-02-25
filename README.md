@@ -8,5 +8,5 @@ I adapted the [Shiny word cloud App](http://shiny.rstudio.com/gallery/word-cloud
 2. Change book and a word cloud appears
 3. Use slider *Minimum Frequency of Words* and *Maximum Number of Words* to change the appearance of the word cloud
 
-***Note:** There is a bug with the slider "Minimum Frequency of Words" which I need to fix*
+***Note: **There is a bug with the slider "Minimum Frequency of Words" which I need to fix*
 
