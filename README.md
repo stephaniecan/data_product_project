@@ -2,6 +2,8 @@
 
 I adapted the [Shiny word cloud App](http://shiny.rstudio.com/gallery/word-cloud.html) for my own books. It creates word cloud based on the words found in the book chosen.
 
+Here is my [Shiny app "Book Word Cloud"](https://stephaniecnvs.shinyapps.io/Book-Word-Cloud/)
+
 **How to use the application:**
 
 1. Choose your favorite book
